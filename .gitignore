@@ -2,3 +2,4 @@ build/*
 env/*
 env_vars.py
 *.pyc
+.idea/*
